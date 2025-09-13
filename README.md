@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# PDF-QA-App
+=======
+>>>>>>> 76ff8a1 (remove redudant code)
 # PDF Q&A App with Gemini API
 
 A modern Next.js application that allows users to upload PDF documents and ask questions about their content using Google's Gemini AI.
@@ -96,4 +102,9 @@ Enable detailed logging by checking the browser console and server terminal for 
 - The app uses a simple JSON file for storage (`data/store.json`)
 - For production, consider implementing proper database storage
 - Vector similarity uses cosine similarity for chunk retrieval
+<<<<<<< HEAD
 - Error handling includes graceful fallbacks and user feedback
+=======
+- Error handling includes graceful fallbacks and user feedback
+>>>>>>> 51db8c5 (Initial Commit)
+>>>>>>> 76ff8a1 (remove redudant code)
